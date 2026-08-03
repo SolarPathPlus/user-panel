@@ -1,1 +1,1 @@
-# SolarP
+# SolarPat
