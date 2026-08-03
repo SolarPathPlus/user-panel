@@ -1,1 +1,1 @@
-# SolarPath+ | User-Pan
+# SolarPath+ | User-Panel
