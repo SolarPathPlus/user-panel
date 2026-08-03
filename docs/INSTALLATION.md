@@ -22,7 +22,7 @@ For you to run the application, you will have to install some of the packages. T
 
 ## Final Check 
 
-Be sure that you ran the script that was built for your operating system under the `/scripts/` directory. The other scripts under the `/scripts/subscripts` directory will be ran by the main scripts. You do not need to touch them if you are not curious. 
+Be sure that the script you are going to run was built for your operating system under the `/scripts/` directory. The other scripts under the `/scripts/subscripts` directory will be ran by the main scripts. You do not need to touch them if you are not curious. 
 
 ---
 
