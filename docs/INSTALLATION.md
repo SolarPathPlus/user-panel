@@ -20,3 +20,6 @@ For you to run the application, you will have to install some of the packages. T
 
 ---
 
+## Final Check 
+
+Be sure that you ran the script that was built for your operating system under the `scripts/` directory. 
