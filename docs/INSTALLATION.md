@@ -4,4 +4,4 @@
 
 ## Device
 
-Unlike the administrator panel, the user panel does not have any system requirements. 
+Unlike the administrator panel, the user panel does not have any system requirements. But on default, 
