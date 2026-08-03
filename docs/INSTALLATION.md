@@ -16,3 +16,4 @@ You have to install some of the packages on your system before running this appl
 
 ## Python Packages
 
+For you to run the application, you will have to install some of the packages. The script you chose will do it istead of you. 
